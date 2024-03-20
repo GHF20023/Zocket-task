@@ -1,0 +1,51 @@
+.top-left {
+	color: aliceblue;
+	font-size:x-large;
+	position:absolute;
+	top: 140px;
+	left: 100px;
+  }
+  #container {
+    position:relative;
+}
+
+#img2 {
+	height: 700px;
+	width: 1000px;
+    position: absolute;
+    left: 180px;
+	left: 180px;
+    top: 550px;
+}
+  .button1 {
+	size: 2px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	border: 3px solid black;
+	cursor: pointer;
+	border-radius: 5px;
+  }
+.mycanvas{
+	width: 1080px;
+	height: 1080px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 20px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+.creative h1 {
+	font-size: 2em;
+	margin-bottom: 10px;
+}
+
+.creative h2 {
+	font-size: 1.5em;
+	margin-bottom: 10px;
+}
+
+.creative p {
+	font-size: 1.2em;
+	margin-bottom: 20px;
+}
